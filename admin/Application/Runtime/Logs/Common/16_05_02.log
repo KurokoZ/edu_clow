@@ -1,0 +1,18 @@
+[ 2016-05-02T20:08:40+08:00 ] 161.202.120.146 //admin/scripts/setup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Scripts
+
+[ 2016-05-02T20:08:42+08:00 ] 161.202.120.146 //admin/pma/scripts/setup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Pma
+
+[ 2016-05-02T20:08:42+08:00 ] 161.202.120.146 //admin/phpmyadmin/scripts/setup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载模块:Phpmyadmin
+

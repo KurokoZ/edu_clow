@@ -1,0 +1,6 @@
+[ 2016-05-02T20:08:44+08:00 ] 161.202.120.146 //myadmin/scripts/setup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:Scripts
+

@@ -1,0 +1,28 @@
+<div class="wrapper">
+  <div class="left-nav">
+    <div id="side-nav">
+      <ul id="nav">
+      	<li> <a href="{:U('Index/index')}"> <i class="icon-desktop"></i> 首页 </a> </li>
+        <li> <a href="{:U('Jinfu/index')}"> <i class="icon-table"></i> Jinfu </a> </li>
+        <li> <a href="#"> <i class="icon-edit"></i> Cube <span class="label label-info pull-right">6</span> <i class="arrow icon-angle-left"></i></a>
+          <ul class="sub-menu">
+            <li> <a href="{:U('Cube/form')}"> <i class="icon-angle-right"></i> 表单 </a> </li>
+            <li> <a href="{:U('Cube/tip')}"> <i class="icon-angle-right"></i> 提示  </a> </li>
+            <li> <a href="{:U('Cube/projects')}"> <i class="icon-angle-right"></i> 展示  </a> </li>
+            <li> <a href="{:U('Cube/elastic')}"> <i class="icon-angle-right"></i> 弹出层 </a> </li>
+            <li> <a href="{:U('Cube/waterfall')}"> <i class="icon-angle-right"></i> 瀑布流 </a> </li>
+            <li> <a href="{:U('Cube/intro')}"> <i class="icon-angle-right"></i> 指导教程 </a> </li>
+          </ul>
+        </li>
+        <li> <a href="{:U('Layer/index')}"> <i class="icon-sign-blank"></i> Layer </a> </li>
+      </ul>
+    </div>
+  </div>
+  <script>
+  	$("#nav").find("li").each(function(){
+  		var href = $(this).find("a").attr("href");
+  		if(href == "{$action_url}"){
+  			$(this).addClass("current");
+  		}
+  	})
+  </script>

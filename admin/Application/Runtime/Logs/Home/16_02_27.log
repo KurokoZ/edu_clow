@@ -1,0 +1,9 @@
+[ 2016-02-27T12:18:58+08:00 ] 121.42.0.15 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011135s ]
+ERR: 无法加载控制器:Index
+

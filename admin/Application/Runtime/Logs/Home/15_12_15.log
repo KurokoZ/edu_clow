@@ -1,0 +1,492 @@
+[ 2015-12-15T11:19:09+08:00 ] 114.242.22.6 /admin/home/omron/vote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2015-12-15T11:31:27+08:00 ] 183.60.70.29 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2015-12-15T11:31:27+08:00 ] 113.108.80.206 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2015-12-15T11:31:27+08:00 ] 180.153.214.198 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-12-15T11:31:27+08:00 ] 61.151.186.145 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2015-12-15T11:41:01+08:00 ] 123.151.64.143 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2015-12-15T11:41:02+08:00 ] 111.161.105.17 /admin/Home/omron/vote?code=a8d85ac9d805c80d0e6d681541ccd1bd&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450158062' WHERE ( `id`=1 ) [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2015-12-15T11:42:18+08:00 ] 123.151.64.143 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-12-15T11:42:19+08:00 ] 123.151.64.143 /admin/Home/omron/vote?code=12562298f5711b278f415ba06a6e8c8c&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450158139' WHERE ( `id`=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-12-15T11:44:25+08:00 ] 123.151.64.143 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004376s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2015-12-15T11:44:25+08:00 ] 123.151.64.143 /admin/Home/omron/vote?code=c36903395473e70eebf3901728f24c77&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450158265' WHERE ( `id`=1 ) [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002567s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2015-12-15T11:45:11+08:00 ] 123.151.64.143 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2015-12-15T11:45:12+08:00 ] 123.151.64.143 /admin/Home/omron/vote?code=1779ae177cc1ac4cb29194c8cb0437e3&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450158312' WHERE ( `id`=1 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: errcode /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-12-15T11:52:55+08:00 ] 183.60.70.29 /admin/Home/Omron/https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxc1c0ec71bd894634&redirect_uri=http%3A%2F%2Fwww.clow.net.cn%2Fadmin%2FHome%2Fomron%2Fvote&response_type=code&scope=SCOPE&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+ERR: 非法操作:https:
+
+[ 2015-12-15T12:34:08+08:00 ] 123.151.64.143 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0011s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2015-12-15T12:34:09+08:00 ] 123.151.64.143 /admin/Home/omron/vote?code=d6a496cbf04121be872ca336d656227a&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450161249' WHERE ( `id`=1 ) [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: UserID /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `omronvote_poll` [ RunTime:0.0010s ]
+SQL: INSERT INTO `omronvote_poll` (`deviceid`) VALUES ('f2f94e3e5fb6732b35f470dcd0adbccb') [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2015-12-15T12:36:11+08:00 ] 123.151.64.143 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2015-12-15T12:36:12+08:00 ] 123.151.64.143 /admin/Home/omron/vote?code=f6eb1c4c1becbc780ef49d050e56016f&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450161372' WHERE ( `id`=1 ) [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: UserID /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `omronvote_poll` [ RunTime:0.0009s ]
+SQL: SELECT `id` FROM `omronvote_poll` WHERE ( `userid`='fengchao' and `deviceid`='f2f94e3e5fb6732b35f470dcd0adbccb' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `omronvote_poll` (`deviceid`) VALUES ('f2f94e3e5fb6732b35f470dcd0adbccb') [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2015-12-15T12:38:13+08:00 ] 111.161.105.17 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-12-15T12:38:14+08:00 ] 111.161.105.17 /admin/Home/omron/vote?code=0ffbfa2b2af5c990aec2a85200e5db1a&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450161493' WHERE ( `id`=1 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: UserID /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `omronvote_poll` [ RunTime:0.0009s ]
+SQL: SELECT `id` FROM `omronvote_poll` WHERE ( `userid`='fengchao' and `deviceid`='f2f94e3e5fb6732b35f470dcd0adbccb' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `omronvote_poll` (`deviceid`,`userid`) VALUES ('f2f94e3e5fb6732b35f470dcd0adbccb','fengchao') [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2015-12-15T12:38:30+08:00 ] 123.151.64.143 /admin/Home/Omron
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0009s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2015-12-15T12:38:31+08:00 ] 111.161.105.17 /admin/Home/omron/vote?code=6e78aa0505ae6b1c85bb80b25a6df862&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='qnLt7eaLvFYC8vMiaSsfbGO3YrDR3jLfsiVp_hfuozGwnF7XPw4CroPZs1vjbXECcfZGOVCP5CwpspWDeHhK3Q',`endtime`='1450161511' WHERE ( `id`=1 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: UserID /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `omronvote_poll` [ RunTime:0.0008s ]
+SQL: SELECT `id` FROM `omronvote_poll` WHERE ( `userid`='fengchao' and `deviceid`='f2f94e3e5fb6732b35f470dcd0adbccb' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+

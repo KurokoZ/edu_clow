@@ -1,0 +1,444 @@
+[ 2016-04-27T10:06:49+08:00 ] 121.42.0.87 /admin/images/menu-current-arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:06:51+08:00 ] 121.42.0.87 /admin/image/menu_h4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Image
+
+[ 2016-04-27T10:06:55+08:00 ] 121.42.0.87 /admin/images/login/index_hz02.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:06:55+08:00 ] 121.42.0.87 /admin/images/login/index_hz03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:06:56+08:00 ] 121.42.0.87 /admin/images/cutimg/ccc.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:06:56+08:00 ] 121.42.0.87 /admin/images/admintitlebg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:06:59+08:00 ] 121.42.0.87 /admin/Tpl/default/ThemeFiles/Images/login/bg-interior-tile-drk.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Tpl
+
+[ 2016-04-27T10:07:00+08:00 ] 121.42.0.87 /admin/images/tab_17.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:00+08:00 ] 121.42.0.87 /admin/images/top_tt_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:01+08:00 ] 121.42.0.87 /admin/images/login/login_submit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:03+08:00 ] 121.42.0.87 /admin/images/netgather_com.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:06+08:00 ] 121.42.0.87 /admin/views/images/admindex_itembg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:Views
+
+[ 2016-04-27T10:07:07+08:00 ] 121.42.0.87 /admin/templates/met/images/logosmall.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:Templates
+
+[ 2016-04-27T10:07:08+08:00 ] 121.42.0.87 /admin/ecshopfiles.md5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Ecshopfiles
+
+[ 2016-04-27T10:07:08+08:00 ] 121.42.0.87 /admin/help/zh_cn/database.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Help
+
+[ 2016-04-27T10:07:15+08:00 ] 121.42.0.87 /admin/images/admin_submit.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:18+08:00 ] 121.42.0.87 /admin/skins/images/ads_set3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Skins
+
+[ 2016-04-27T10:07:19+08:00 ] 121.42.0.87 /admin/images/loadingAnimation.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:24+08:00 ] 121.42.0.87 /admin/Images/del.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:26+08:00 ] 121.42.0.87 /admin/images/arrow_right_8x8.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:48+08:00 ] 121.42.0.87 /admin/Images/Login_tit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:48+08:00 ] 121.42.0.87 /admin/Images/Sort_Folder_Close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:49+08:00 ] 121.42.0.87 /admin/Limages/left-corners.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Limages
+
+[ 2016-04-27T10:07:51+08:00 ] 121.42.0.87 /admin/tpl/images/welcome_h1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Tpl
+
+[ 2016-04-27T10:07:52+08:00 ] 121.42.0.87 /admin/images/bg-pay-return-success.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T10:07:52+08:00 ] 121.42.0.87 /admin/images/login_06.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:05:24+08:00 ] 121.42.0.14 /admin/images/menu-current-arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:05:25+08:00 ] 121.42.0.14 /admin/image/menu_h4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Image
+
+[ 2016-04-27T12:05:39+08:00 ] 121.42.0.14 /admin/images/login/index_hz02.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:05:40+08:00 ] 121.42.0.14 /admin/images/login/index_hz03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:05:42+08:00 ] 121.42.0.14 /admin/images/cutimg/ccc.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:05:52+08:00 ] 121.42.0.14 /admin/Tpl/default/ThemeFiles/Images/login/bg-interior-tile-drk.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Tpl
+
+[ 2016-04-27T12:05:55+08:00 ] 121.42.0.14 /admin/images/tab_17.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:05:55+08:00 ] 121.42.0.14 /admin/images/top_tt_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:05:56+08:00 ] 121.42.0.14 /admin/images/login/login_submit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:06:00+08:00 ] 121.42.0.14 /admin/images/netgather_com.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:06:03+08:00 ] 121.42.0.14 /admin/views/images/admindex_itembg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Views
+
+[ 2016-04-27T12:06:04+08:00 ] 121.42.0.14 /admin/templates/met/images/logosmall.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 无法加载模块:Templates
+
+[ 2016-04-27T12:06:05+08:00 ] 121.42.0.14 /admin/ecshopfiles.md5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:Ecshopfiles
+
+[ 2016-04-27T12:06:24+08:00 ] 121.42.0.14 /admin/images/admin_submit.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:06:33+08:00 ] 121.42.0.14 /admin/skins/images/ads_set3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Skins
+
+[ 2016-04-27T12:06:34+08:00 ] 121.42.0.14 /admin/images/loadingAnimation.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:06:41+08:00 ] 121.42.0.14 /admin/Images/del.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:06:45+08:00 ] 121.42.0.14 /admin/images/arrow_right_8x8.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:07:01+08:00 ] 121.42.0.14 /admin/Images/Login_tit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:07:01+08:00 ] 121.42.0.14 /admin/Images/Sort_Folder_Close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:07:01+08:00 ] 121.42.0.14 /admin/Limages/left-corners.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Limages
+
+[ 2016-04-27T12:07:06+08:00 ] 121.42.0.14 /admin/tpl/images/welcome_h1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Tpl
+
+[ 2016-04-27T12:07:06+08:00 ] 121.42.0.14 /admin/images/bg-pay-return-success.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T12:07:07+08:00 ] 121.42.0.14 /admin/images/login_06.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:02+08:00 ] 121.42.0.37 /admin/images/menu-current-arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:18+08:00 ] 121.42.0.37 /admin/images/login/index_hz02.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:18+08:00 ] 121.42.0.37 /admin/images/login/index_hz03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:19+08:00 ] 121.42.0.37 /admin/images/cutimg/ccc.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:19+08:00 ] 121.42.0.37 /admin/images/admintitlebg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:25+08:00 ] 121.42.0.37 /admin/images/tab_17.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:25+08:00 ] 121.42.0.37 /admin/images/top_tt_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:26+08:00 ] 121.42.0.37 /admin/images/login/login_submit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:32+08:00 ] 121.42.0.37 /admin/images/netgather_com.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:37+08:00 ] 121.42.0.37 /admin/views/images/admindex_itembg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 无法加载模块:Views
+
+[ 2016-04-27T18:38:38+08:00 ] 121.42.0.37 /admin/templates/met/images/logosmall.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+ERR: 无法加载模块:Templates
+
+[ 2016-04-27T18:38:41+08:00 ] 121.42.0.37 /admin/ecshopfiles.md5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:Ecshopfiles
+
+[ 2016-04-27T18:38:41+08:00 ] 121.42.0.37 /admin/help/zh_cn/database.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Help
+
+[ 2016-04-27T18:38:52+08:00 ] 121.42.0.37 /admin/images/admin_submit.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:55+08:00 ] 121.42.0.37 /admin/skins/images/ads_set3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Skins
+
+[ 2016-04-27T18:38:56+08:00 ] 121.42.0.37 /admin/images/loadingAnimation.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:38:59+08:00 ] 121.42.0.37 /admin/Images/del.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:39:03+08:00 ] 121.42.0.37 /admin/images/arrow_right_8x8.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:39:19+08:00 ] 121.42.0.37 /admin/Images/Sort_Folder_Close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:39:19+08:00 ] 121.42.0.37 /admin/Limages/left-corners.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Limages
+
+[ 2016-04-27T18:39:20+08:00 ] 121.42.0.37 /admin/images/li_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:39:20+08:00 ] 121.42.0.37 /admin/tpl/images/welcome_h1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Tpl
+
+[ 2016-04-27T18:39:21+08:00 ] 121.42.0.37 /admin/images/bg-pay-return-success.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 无法加载模块:Images
+
+[ 2016-04-27T18:39:21+08:00 ] 121.42.0.37 /admin/images/login_06.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 无法加载模块:Images
+

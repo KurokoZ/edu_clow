@@ -1,0 +1,50 @@
+<include file="Admin@Common:header"/>   
+<include file="Admin@Common:left"/>   
+  <div class="page-content">
+    <div class="content container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="widget">
+            <div class="widget-content">
+              <div class="example_alt_pagination">
+                <div id="container">
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<include file="Admin@Common:footer"/> 
+<!-- Layer -->
+<script src="__PUBLIC__/layer/layer.js"></script>
+<script>
+;!function(){
+
+//加载扩展模块
+layer.config({
+    extend: 'extend/layer.ext.js'
+});
+
+//页面一打开就执行，放入ready是为了layer所需配件（css、扩展模块）加载完毕
+layer.ready(function(){ 
+    //官网欢迎页
+    layer.open({
+        type: 2,
+        //skin: 'layui-layer-lan',
+        title: 'layer弹层组件',
+        fix: false,
+        shadeClose: true,
+        maxmin: true,
+        area: ['1000px', '500px'],
+        content: "http://layer.layui.com/",
+        end: function(){
+           
+        }
+    });
+});
+}();
+</script>

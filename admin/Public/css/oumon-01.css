@@ -1,0 +1,654 @@
+body{
+    background-image: url('../img/omronvote/bg0.jpg');
+    background-repeat:repeat-y;
+    background-size:cover;
+    height: 100%;
+    }
+.icon,
+.majority {
+    color: #036eb8;
+    font-weight: 700;
+}
+
+/*适配苹果4 */
+@media screen and (max-height: 480px){
+    .name,
+    .popup_department {
+        font-size: 12px;
+    }
+    .rules_header,
+    #rules_header_close{
+        font-size: 24px;
+    }
+    #tan_icon,
+    #close_popup,
+    .popup_bottom{
+        font-size: 24px;
+    }
+    .success,
+    .success i {
+        font-size: 18px;
+    }
+    .popup_name {
+        font-size: 20px;
+    }
+    .zan_btn,
+    .rules_list{
+        font-size: 14px;
+    }
+    .swiper-slide-content-middle,
+    .popup_title,
+    .popup_content{
+        font-size: 14px;
+    }
+    .swiper-slide-content-middle {
+        height: 2rem;
+        text-align: left;
+        vertical-align: middle;
+        display: table;
+        padding: 0 3%;
+    }
+    .swiper-slide-content-middle p {
+        vertical-align: middle;
+        display: table-cell;
+    }
+    .swiper-slide-content-top {
+        height: 42px;
+    }
+    .rules_header {
+        margin-bottom: 15px;
+    }
+    .rules_list_content,
+    .rules_list_title {
+        line-height: 24px;
+    }
+    .rules_list_title_bg {
+        border-top: 12px solid #cae8f8;
+        border-bottom: 12px solid #cae8f8;
+        width: 90px;
+    }
+    .swiper-slide {
+        padding-top:23%;
+    }
+    .popup_title{
+        margin-bottom: 8px;
+    }
+    .popup_bottom {
+        margin-bottom: 10px;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .popup_top {
+        margin-bottom: 10px;
+    }
+    .popup_right {
+        height: 11.5rem;
+    }
+    .popup_content {
+        height: 10.5rem;
+    }
+    .department {
+    -webkit-transform: scale(.75,.75);
+    }
+    .swiper-slide-content{
+        margin: 0 0 5px 13px;
+    }
+    .swiper-slide-content-bottom {
+        line-height: 24px;
+    }
+    .rules {
+        padding-top: 8%;
+        padding-left: 5%;
+        width: 95%;
+        height: 90%;
+    }
+}
+
+/*适配苹果5*/
+@media screen and (min-height: 500px) and (max-height: 568px){
+    .name,
+    .popup_department {
+        font-size: 13px;
+    }
+    .rules_header,
+    #rules_header_close{
+        font-size: 24px;
+    }
+    #tan_icon,
+    #close_popup,
+    .popup_bottom{
+        font-size: 24px;
+    }
+    .success,
+    .success i {
+        font-size: 18px;
+    }
+    .popup_name {
+        font-size: 20px;
+    }
+    .zan_btn,
+    .swiper-slide-content-middle,
+    .popup_title,
+    .rules_list{
+        font-size: 14px;
+    }
+    .popup_content{
+        font-size: 13px;
+    }
+    .swiper-slide-content-middle {
+        height: 2rem;
+        text-align: left;
+        vertical-align: middle;
+        display: table;
+        padding: 0 3%;
+    }
+    .swiper-slide-content-middle p {
+        vertical-align: middle;
+        display: table-cell;
+        line-height: 1.375rem;
+    }
+    .swiper-slide-content-top {
+        height: 47px;
+    }
+    .rules_header {
+        margin-bottom: 15px;
+    }
+    .rules_list_content,
+    .rules_list_title {
+        line-height: 32px;
+    }
+    .rules_list_title_bg {
+        border-top: 16px solid #cae8f8;
+        border-bottom: 16px solid #cae8f8;
+        width: 90px;
+    }
+    .swiper-slide {
+        padding-top:26%;
+    }
+    .popup_title{
+        margin-bottom: 10px;
+    }
+    .popup_bottom {
+        margin: 15px 5%;
+    }
+    .popup_top {
+        margin-bottom: 10px;
+    }
+    .popup_right {
+        height: 13.5rem;
+    }
+    .popup_content {
+        height: 10.5rem;
+    }
+    .department {
+    -webkit-transform: scale(.75,.75);
+    }
+    .swiper-slide-content{
+        margin: 0 0 5px 14.5px;
+    }
+    .swiper-slide-content-bottom {
+        line-height: 24px;
+    }
+    .rules {
+        padding-top: 10%;
+        padding-left: 5%;
+        height: 90%;
+        width: 95%;
+    }
+}
+
+/*适配苹果6*/
+@media screen and (min-height: 570px) and (max-height: 627px){
+    .name,
+    .popup_department {
+        font-size: 14px;
+    }
+    .rules_header,
+    #rules_header_close{
+        font-size: 24px;
+    }
+    #tan_icon,
+    #close_popup,
+    .popup_bottom{
+        font-size: 24px;
+    }
+    .success,
+    .success i {
+        font-size: 20px;
+    }
+    .popup_name {
+        font-size: 20px;
+    }
+    .zan_btn,
+    .rules_list{
+        font-size: 16px;
+    }
+    .swiper-slide-content-middle,
+    .popup_title,
+    .popup_content{
+        font-size: 14px;
+    }
+    .swiper-slide-content-middle {
+        height: 3.5rem;
+        text-align: left;
+        vertical-align: middle;
+        display: table;
+        padding: 0 3%;
+    }
+    .swiper-slide-content-middle p {
+        vertical-align: middle;
+        display: table-cell;
+        line-height: 1.375rem;
+        font-size: 13px;
+    }
+    .swiper-slide-content-top {
+        height: 48px;
+    }
+    .rules_header {
+        margin-bottom: 15px;
+    }
+    .rules_list_content,
+    .rules_list_title {
+        line-height: 32px;
+    }
+    .rules_list_title_bg {
+        border-top: 16px solid #cae8f8;
+        border-bottom: 16px solid #cae8f8;
+        width: 100px;
+    }
+    .swiper-slide {
+        padding-top:26%;
+        padding-left: .5px;
+    }
+    .popup_title{
+        margin-bottom: 10px;
+    }
+    .popup_bottom {
+        margin: 15px 5%;
+    }
+    .popup_top {
+        margin-bottom: 15px;
+    }
+    .popup_right {
+        height: 15.5rem;
+    }
+    .popup_content {
+        height: 12.5rem;
+    }
+    .department {
+    -webkit-transform: scale(0.9,0.9);
+    }
+    .swiper-slide-content{
+        margin: 0 0 5px 16.5px;
+    }
+    .swiper-slide-content-bottom {
+        line-height: 24px;
+    }
+    .rules {
+        padding-top: 10%;
+        padding-left: 5%;
+        height: 90%;
+        width: 95%;
+    }
+}
+
+/*适配苹果6plus*/
+@media screen and (min-height: 630px) /*and (max-height: 740px)*/{
+    .name,
+    .popup_department {
+        font-size: 14px;
+    }
+    .rules_header,
+    #rules_header_close{
+        font-size: 24px;
+    }
+    #tan_icon,
+    .success,
+    .success i,
+    #close_popup,
+    .popup_bottom{
+        font-size: 24px;
+    }
+    .popup_name {
+        font-size: 20px;
+    }
+    .zan_btn,
+    .rules_list{
+        font-size: 18px;
+    }
+    .swiper-slide-content-middle,
+    .popup_title,
+    .popup_content{
+        font-size: 14px;
+    }
+    .swiper-slide-content-middle {
+        height: 4.2rem;
+        text-align: left;
+        vertical-align: middle;
+        display: table;
+        padding: 0 3%;
+    }
+    .swiper-slide-content-middle p {
+        vertical-align: middle;
+        display: table-cell;
+        line-height: 1.325rem;
+        font-size: 14px;
+    }
+    .swiper-slide-content-top {
+        height: 54px;
+    }
+    .rules_header {
+        margin-bottom: 15px;
+    }
+    .rules_list_content,
+    .rules_list_title {
+        line-height: 36px;
+    }
+    .rules_list_title_bg {
+        border-top: 18px solid #cae8f8;
+        border-bottom: 18px solid #cae8f8;
+        width: 115px;
+    }
+    .swiper-slide {
+        padding-top:28%;
+    }
+    .popup_title{
+        margin-bottom: 10px;
+        letter-spacing: 1px;
+    }
+    .popup_bottom {
+        margin: 15px 5%;
+    }
+    .popup_top {
+        margin-bottom: 15px;
+    }
+    .popup_right {
+        height: 16.5rem;
+    }
+    .popup_content {
+        height: 13.5rem;
+    }
+    .department {
+    -webkit-transform: scale(0.9,0.9);
+    }
+    .swiper-slide-content{
+        margin: 0 0 5px 17.5px;
+    }
+    .swiper-slide-content-bottom {
+        line-height: 32px;
+        font-size: 18px;
+    }
+    .rules {
+        padding-top: 15%;
+        padding-left: 5%; 
+        height: 90%;
+        width: 95%;
+    }
+}
+
+/* Center slide text vertically */
+/*
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+*/
+.bg {
+    width: 100%;
+    height: 100%;
+}
+#bgtop,
+#bgbottom {
+    width: 100%;
+    position: fixed;
+}
+#bgtop {
+    top: 0;
+}
+#bgbottom {
+    bottom: 0;
+}
+.swiper-container {
+    position: absolute;
+    width:100%;
+    bottom: 0;
+    top: 0;
+    display: flex;
+}
+.swiper-slide {
+    text-align: center;
+}
+
+.swiper-slide-content{
+    position: relative;
+    width: 44%;
+    height: 24%;
+    display: inline-block;
+    float: left;
+    background-color: #ebf6f8;
+}
+
+.swiper-slide-content-top{
+    overflow-y: hidden;
+    padding-top:5px; 
+    padding-left: 5px;
+}
+.swiper-slide-content-top-content{
+    float: right;
+    width:54%;
+    height: 22%;
+    margin-right: 2px;
+    margin-left: 2px;
+    color: #036eb8;
+}
+.name {
+    font-weight: 700;
+    border-bottom: 1px solid #036eb8;
+}
+.department {
+    line-height: 0.9rem;
+}
+.swiper-slide-content-top-img img{
+    width: 42%;
+    position: relative;
+    float: left;
+}
+
+
+.swiper-slide-content-bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 5px;
+    background: #cae8f8;
+}
+
+
+/*点赞规则*/
+
+.zan_btn {
+    position: absolute;
+    width: 100%;
+    bottom: 5.5%;
+    text-align: center;
+    color: #fff;
+    z-index: 9;
+}
+.zan_btn span {
+    background-color: #036eb8;
+    padding: 3px 6px;
+    letter-spacing: 3px;
+}
+
+/*点赞成功*/
+.success {
+    position: absolute;
+    left: 20%;
+    top: 44%;
+    width: 60%;
+    line-height: 55px;
+    text-align: center;
+    color: #fff;
+    background: #000;
+    opacity: .7;
+    border-radius: 10px;
+    z-index: 10;
+    display: none;
+}
+.success i {
+    color: #fff;
+}
+#success_icon {
+    font-weight: 500;
+}
+
+
+
+/*弹窗*/
+.popup_bg, .popup_main {
+    display: none;
+}
+
+
+
+.popup_bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: .7;
+    z-index: 13;
+}
+
+
+.popup_main {
+    position: absolute;
+    width: 84.0625%;
+    height: 58.3333%;
+    left: 7%;
+    top: 15%;
+    z-index: 100;
+    background-image: url('../img/omronvote/tbg.jpg');
+    /*background-image: url('../images/tbg.jpg');*/
+    background-size: contain;
+}
+
+.popup_top {
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.popup_middle {
+    width: 100%;
+}
+
+.popup_left {
+    margin-left: 3%;
+    width: 40%;
+    float: left;
+}
+.popup_name {
+    text-align: center;
+    line-height: 40px;
+    color: #036eb8;
+    border-bottom:2px solid #036eb8;
+}
+.popup_department {
+    text-align: center;
+    line-height: 20px;
+    color: #036eb8;
+}
+.popup_left img {
+    width: 100%;
+}
+.popup_right {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+    width: 48%;
+    float: right;
+}
+.popup_title{
+    text-align: left;
+    font-weight: 700;
+    color: #036eb8;
+}
+.popup_content {
+    text-align: left;
+    overflow-y: scroll;
+    padding-right: 0.5rem;
+}
+
+.popup_bottom {
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    background: #cae6f2;
+    text-align: center;
+    color: #036eb8;
+    line-height: 24px;
+    padding: 5px 0;
+}
+
+/*点赞规则弹窗*/
+.rules,.rules_bg {
+    display: none;
+}
+.rules_bg {
+    height: 100%;
+    width: 100%;
+}
+
+.rules_bg {
+    position: fixed;
+    background: #000;
+    opacity: .7;
+    z-index: 98;
+}
+
+.rules {
+    position: absolute;
+    z-index: 99;
+    color: #fff;
+}
+.rules_header {
+    padding-bottom: 10px;
+    letter-spacing: 5px;
+    width: 84%;
+    border-bottom: 2px solid #fff;
+}
+#rules_header_close {
+    color: #fff;
+    float: right;
+}
+
+.rules_list {
+    width: 90%;
+}
+.rules_list_title_bg {
+    position: absolute;
+    height: 0;
+    display: inline-block;
+    text-align: center;
+    border-right: 18px solid rgba(0,0,0,0);
+}
+
+.rules_list_title {
+    position: relative;
+    margin-left: 12px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    letter-spacing: 3px;
+    color: #036eb8;
+}
+
+
+

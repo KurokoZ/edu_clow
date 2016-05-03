@@ -1,0 +1,6 @@
+[ 2016-03-14T18:01:06+08:00 ] 195.154.214.162 /admin/config.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Config
+

@@ -1,0 +1,318 @@
+<include file="Admin@Common:header"/>   
+<include file="Admin@Common:left"/>   
+<style>
+  .tab_img{width:50px;height:50px;}
+  td{color:#fff;}
+</style>
+  <div class="page-content">
+    <div class="content container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="widget">
+            <div class="widget-content">
+              <div class="example_alt_pagination">
+                <div id="container">
+                  <div class="full_width big"></div>
+                  <div id="demo">
+                    <table cellpadding="0" cellspacing="0" border="0" class="display" id="example">
+                      <thead>
+                        <tr>
+                          <th> 参赛人ID </th>
+                          <th> 参赛人姓名 </th>
+                          <th> 参赛人头像 </th>
+                          <th> 参赛人票数 </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <!--  <volist name="users" id="vo">
+                            <tr class="gradeC">
+                              <td>{$vo['id']}</td>
+                              <td class="tab_name">{$vo['name']}</td>
+                              <td><img src="{$vo['img']}" class="tab_img"></td>
+                              <td>{$vo['num']}</td>
+                            </tr>
+                        </volist>  -->
+                        <tr class="gradeC">
+                        	<td>{$users[0]['id']}</td>
+                        	<td>商洪博</td>
+                        	<td><img data-src="{$users[0]['img']}" class="tab_img"></td>
+                        	<td>{$users[0]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[1]['id']}</td>
+                        	<td>崔新阳</td>
+                        	<td><img data-src="{$users[1]['img']}" class="tab_img"></td>
+                        	<td>{$users[1]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[2]['id']}</td>
+                        	<td>金卓雯</td>
+                        	<td><img data-src="{$users[2]['img']}" class="tab_img"></td>
+                        	<td>{$users[2]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[3]['id']}</td>
+                        	<td>方文超</td>
+                        	<td><img data-src="{$users[3]['img']}" class="tab_img"></td>
+                        	<td>{$users[3]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[4]['id']}</td>
+                        	<td>唐春玉</td>
+                        	<td><img data-src="{$users[4]['img']}" class="tab_img"></td>
+                        	<td>{$users[4]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[5]['id']}</td>
+                        	<td>陆金花&李洁</td>
+                        	<td><img data-src="{$users[5]['img']}" class="tab_img"></td>
+                        	<td>{$users[5]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[6]['id']}</td>
+                        	<td>黄安琪</td>
+                        	<td><img data-src="{$users[6]['img']}" class="tab_img"></td>
+                        	<td>{$users[6]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[7]['id']}</td>
+                        	<td>袁翠萍</td>
+                        	<td><img data-src="{$users[7]['img']}" class="tab_img"></td>
+                        	<td>{$users[7]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[8]['id']}</td>
+                        	<td>李莎</td>
+                        	<td><img data-src="{$users[8]['img']}" class="tab_img"></td>
+                        	<td>{$users[8]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[9]['id']}</td>
+                        	<td>刘阳</td>
+                        	<td><img data-src="{$users[9]['img']}" class="tab_img"></td>
+                        	<td>{$users[9]['num']}</td>
+                        </tr>
+						<tr class="gradeC">
+                        	<td>{$users[10]['id']}</td>
+                        	<td>许丽蓉</td>
+                        	<td><img data-src="{$users[10]['img']}" class="tab_img"></td>
+                        	<td>{$users[10]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[11]['id']}</td>
+                        	<td>刘晨晨</td>
+                        	<td><img data-src="{$users[11]['img']}" class="tab_img"></td>
+                        	<td>{$users[11]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[12]['id']}</td>
+                        	<td>山本秀男</td>
+                        	<td><img data-src="{$users[12]['img']}" class="tab_img"></td>
+                        	<td>{$users[12]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[13]['id']}</td>
+                        	<td>魏明华</td>
+                        	<td><img data-src="{$users[13]['img']}" class="tab_img"></td>
+                        	<td>{$users[13]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[14]['id']}</td>
+                        	<td>费国强</td>
+                        	<td><img data-src="{$users[14]['img']}" class="tab_img"></td>
+                        	<td>{$users[14]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[15]['id']}</td>
+                        	<td>崔相哲</td>
+                        	<td><img data-src="{$users[15]['img']}" class="tab_img"></td>
+                        	<td>{$users[15]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[16]['id']}</td>
+                        	<td>许文婕</td>
+                        	<td><img data-src="{$users[16]['img']}" class="tab_img"></td>
+                        	<td>{$users[16]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[17]['id']}</td>
+                        	<td>徐超</td>
+                        	<td><img data-src="{$users[17]['img']}" class="tab_img"></td>
+                        	<td>{$users[17]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[18]['id']}</td>
+                        	<td>徐幼圆</td>
+                        	<td><img data-src="{$users[18]['img']}" class="tab_img"></td>
+                        	<td>{$users[18]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[19]['id']}</td>
+                        	<td>奚桔玲</td>
+                        	<td><img data-src="{$users[19]['img']}" class="tab_img"></td>
+                        	<td>{$users[19]['num']}</td>
+                        </tr>
+						<tr class="gradeC">
+                        	<td>{$users[20]['id']}</td>
+                        	<td>商洪博</td>
+                        	<td><img data-src="{$users[20]['img']}" class="tab_img"></td>
+                        	<td>{$users[20]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[21]['id']}</td>
+                        	<td>金梁</td>
+                        	<td><img data-src="{$users[21]['img']}" class="tab_img"></td>
+                        	<td>{$users[21]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[22]['id']}</td>
+                        	<td>刘永进</td>
+                        	<td><img data-src="{$users[22]['img']}" class="tab_img"></td>
+                        	<td>{$users[22]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[23]['id']}</td>
+                        	<td>牛轩</td>
+                        	<td><img data-src="{$users[23]['img']}" class="tab_img"></td>
+                        	<td>{$users[23]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[24]['id']}</td>
+                        	<td>钟笔</td>
+                        	<td><img data-src="{$users[24]['img']}" class="tab_img"></td>
+                        	<td>{$users[24]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[25]['id']}</td>
+                        	<td>付凡</td>
+                        	<td><img data-src="{$users[25]['img']}" class="tab_img"></td>
+                        	<td>{$users[25]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[26]['id']}</td>
+                        	<td>成志彬</td>
+                        	<td><img data-src="{$users[26]['img']}" class="tab_img"></td>
+                        	<td>{$users[26]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[27]['id']}</td>
+                        	<td>张端阳</td>
+                        	<td><img data-src="{$users[27]['img']}" class="tab_img"></td>
+                        	<td>{$users[27]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[28]['id']}</td>
+                        	<td>宁浩鹏</td>
+                        	<td><img data-src="{$users[28]['img']}" class="tab_img"></td>
+                        	<td>{$users[28]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[29]['id']}</td>
+                        	<td>仲艳</td>
+                        	<td><img data-src="{$users[29]['img']}" class="tab_img"></td>
+                        	<td>{$users[29]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[30]['id']}</td>
+                        	<td>蔡海洋</td>
+                        	<td><img data-src="{$users[30]['img']}" class="tab_img"></td>
+                        	<td>{$users[30]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[31]['id']}</td>
+                        	<td>贺平</td>
+                        	<td><img data-src="{$users[31]['img']}" class="tab_img"></td>
+                        	<td>{$users[31]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[32]['id']}</td>
+                        	<td>潘逸琼</td>
+                        	<td><img data-src="{$users[32]['img']}" class="tab_img"></td>
+                        	<td>{$users[32]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[33]['id']}</td>
+                        	<td>邓家飞</td>
+                        	<td><img data-src="{$users[33]['img']}" class="tab_img"></td>
+                        	<td>{$users[33]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[34]['id']}</td>
+                        	<td>区志雄</td>
+                        	<td><img data-src="{$users[34]['img']}" class="tab_img"></td>
+                        	<td>{$users[34]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[35]['id']}</td>
+                        	<td>林彦相</td>
+                        	<td><img data-src="{$users[35]['img']}" class="tab_img"></td>
+                        	<td>{$users[35]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[36]['id']}</td>
+                        	<td>黄思慧</td>
+                        	<td><img data-src="{$users[36]['img']}" class="tab_img"></td>
+                        	<td>{$users[36]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[37]['id']}</td>
+                        	<td>朱正清</td>
+                        	<td><img data-src="{$users[37]['img']}" class="tab_img"></td>
+                        	<td>{$users[37]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[38]['id']}</td>
+                        	<td>王珍</td>
+                        	<td><img data-src="{$users[38]['img']}" class="tab_img"></td>
+                        	<td>{$users[38]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[39]['id']}</td>
+                        	<td>张慧</td>
+                        	<td><img data-src="{$users[39]['img']}" class="tab_img"></td>
+                        	<td>{$users[39]['num']}</td>
+                        </tr>
+                        <tr class="gradeC">
+                        	<td>{$users[40]['id']}</td>
+                        	<td>顾荔荔</td>
+                        	<td><img data-src="{$users[40]['img']}" class="tab_img"></td>
+                        	<td>{$users[40]['num']}</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<include file="Admin@Common:footer"/> 
+<script>
+	function img(){
+		$(".tab_img").each(function(){
+			var img = $(this).attr("data-src");
+			$(this).attr("src",img);
+		})
+		$(".paginate_button").attr("onclick","img()");
+		$(".paginate_active").attr("onclick","img()");
+	}
+
+	$(function(){ 
+		img();
+		
+		$("select[name='example_length']").change(function(){
+			img();
+		})
+		
+		$("th").click(function(){
+			img();
+		})
+		
+		$(document).on("keyup","input[placeholder='随意搜']",function(){
+			img();
+		})
+	})
+</script>

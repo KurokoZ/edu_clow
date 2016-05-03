@@ -1,0 +1,57 @@
+[ 2016-01-20T04:17:41+08:00 ] 121.42.0.30 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-01-20T15:06:05+08:00 ] 223.104.38.159 /admin/home/omron/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=12 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=14 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='x6X2L3nr__2fErdv09_6cJXzc76RLWN_S4ulJfRwIj9Evybjn3_yZxpzwo_ljV47mq_BabjDV927x-tOm2Xb4w',`endtime`='1453280765' WHERE ( `id`=14 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-01-20T15:06:08+08:00 ] 223.104.38.159 /admin/Home/omron/vote?code=6248e5583408dbec918a26375160af43&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+SQL: SHOW COLUMNS FROM `omronvote` [ RunTime:0.0008s ]
+SQL: SELECT `access_token`,`endtime` FROM `omronvote` WHERE ( `id`=12 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=14 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='x6X2L3nr__2fErdv09_6cJXzc76RLWN_S4ulJfRwIj9Evybjn3_yZxpzwo_ljV47mq_BabjDV927x-tOm2Xb4w',`endtime`='1453280768' WHERE ( `id`=14 ) [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `omronvote` WHERE ( `id`=14 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `omronvote` SET `access_token`='x6X2L3nr__2fErdv09_6cJXzc76RLWN_S4ulJfRwIj9Evybjn3_yZxpzwo_ljV47mq_BabjDV927x-tOm2Xb4w',`endtime`='1453280768' WHERE ( `id`=14 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: UserID /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 22 行.
+NOTIC: [8] Undefined index: UserId /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 24 行.
+NOTIC: [8] Undefined index: UserId /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `omronvote_poll` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: UserId /home/wwwroot/admin/Application/Home/Controller/OmronController.class.php 第 27 行.
+SQL: SELECT `id` FROM `omronvote_poll` WHERE ( `userid`='' and `deviceid`='08e1afbd393eadb45085d81e16639fa9' ) LIMIT 1   [ RunTime:0.0003s ]
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `omronvote_poll` (`deviceid`,`userid`) VALUES ('08e1afbd393eadb45085d81e16639fa9',NULL)
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `omronvote_poll` (`deviceid`,`userid`) VALUES ('08e1afbd393eadb45085d81e16639fa9',NULL)
+

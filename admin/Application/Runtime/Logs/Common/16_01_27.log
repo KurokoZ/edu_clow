@@ -1,0 +1,42 @@
+[ 2016-01-27T04:42:19+08:00 ] 121.42.0.38 /admin/modules/backup/page.backup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Modules
+
+[ 2016-01-27T04:42:22+08:00 ] 121.42.0.38 /admin/modules/backup/webscan233333.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Modules
+
+[ 2016-01-27T04:42:31+08:00 ] 121.42.0.38 /admin/index.php/login/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Login
+
+[ 2016-01-27T04:42:37+08:00 ] 121.42.0.38 /admin/ckfinder/core/connector/asp/connector.asp?command=FileUpload&type=Images&Folder=%2F&langCode=zh-cn&hash=6c6a79911ae80ce2&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Ckfinder
+
+[ 2016-01-27T04:43:34+08:00 ] 121.42.0.38 /admin/include/common.inc.php?met_admin_type_ok=1&langset=459&met_langadmin%5B459%5D%5B%5D=12345&str=echo%20md5%28%22233333%22%29%3b%2f%2f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Include
+
+[ 2016-01-27T04:52:22+08:00 ] 121.42.0.38 /admin/control/wxpay.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Control
+
+[ 2016-01-27T04:56:07+08:00 ] 121.42.0.38 /admin/others.asp?mudi=download_EN_CN&n=index.asp&ENname=../config.asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:Others
+
